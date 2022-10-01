@@ -1,0 +1,9 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=8a6c62f9_002D1062_002D4f2d_002D9120_002D679b31367667/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="CircleCtor" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::335E0C3D-AB3E-47B1-AB96-445B5DE3F1C6::net6.0::MyLibUnit.Tests.CircleTests.CircleCtor&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::335E0C3D-AB3E-47B1-AB96-445B5DE3F1C6::net6.0::MyLibUnit.Tests.TriangleTests.TriangleCtorNegativeSide&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::335E0C3D-AB3E-47B1-AB96-445B5DE3F1C6::net6.0::MyLibUnit.Tests.TriangleTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::335E0C3D-AB3E-47B1-AB96-445B5DE3F1C6::net6.0::MyLibUnit.Tests.AreaCalculatorTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
