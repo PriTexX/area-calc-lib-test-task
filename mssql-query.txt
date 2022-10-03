@@ -1,0 +1,1 @@
+SELECT P."title", C."title" FROM Products LEFT JOIN ProductCategories PC ON Products.id = PC.productId LEFT JOIN Categories ON PC.CategoryId = Categories.id;
